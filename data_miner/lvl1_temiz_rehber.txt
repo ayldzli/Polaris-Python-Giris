@@ -1,0 +1,12 @@
+Mails:
+
+test.user17@example.com
+support_team@my-domain.co
+info42@randommail.net
+hidden.mail+tag@gmail.com
+
+Numbers:
+
++905328472916
+02124567890
++14155552671
